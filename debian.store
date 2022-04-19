@@ -1,1 +1,1 @@
-{"base": "0a05214", "parent": "debian/rolling/rcss3d_agent_msgs", "previous": "a842a73", "trim": "", "trimbase": ""}
+{"base": "6a801c5", "parent": "debian/humble/rcss3d_agent_msgs", "previous": "d59e96d", "trim": "", "trimbase": ""}
